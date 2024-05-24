@@ -3,6 +3,8 @@
 ## Overview
 This project is part of the SEED Labs and focuses on understanding and implementing various TCP-based attacks. The primary goal is to demonstrate vulnerabilities in the TCP protocol through hands-on experience with SYN Flooding, TCP RST attacks, TCP Session Hijacking, and creating a Reverse Shell using TCP Session Hijacking.
 
+Lab completed in 2022 Spring.
+
 ## Tasks and Learnings
 
 ### 1. SYN Flooding Attack
